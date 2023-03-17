@@ -1,0 +1,36 @@
+.Email{
+  height: 25px;
+  border: 1px solid teal;
+  width: 50%;
+  margin-top: 5px;
+}
+.password{
+  height: 25px;
+  border: 1px solid teal;
+  margin-top: 5px;
+  width: 50%;
+  
+}
+.seconddiv{
+ margin: 10px;
+}
+.text{
+  color:rgb(98, 98, 253)
+}
+.firstName{
+  height: 25px;
+  border: 1px solid teal;
+  margin-top: 5px;
+  width: 50%;
+}
+
+.lastName{
+  height: 25px;
+  border: 1px solid teal;
+  margin-top: 5px;
+  width: 50%;
+}
+.heading{
+ color: blue;
+ margin-left: 35px;
+}
